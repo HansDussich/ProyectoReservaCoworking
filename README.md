@@ -33,8 +33,8 @@ Parcial Primer Momento Backend - Construccion de un Servlet con Java
         - ReservaServlet: Procesa el formulario Index.html, valida los campos y los guarda en la base de datos.
         - ListaReservasServlet: trae y muestra todas las reservas.
         - EliminarReservaServlet: Elimina una reserva usando el Id.
-    * 
-    * Tenemos dos vistas:
+
+   * Tenemos dos vistas:
         - Index.html: muestra un formulario y un campo para redirigir hacia mostrarReservas.jsp
         - mostrarReserva.jps: crea una tabla que muestra todas las reservas y un campo para redirigir al index.html
     
