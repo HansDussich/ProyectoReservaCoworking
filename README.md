@@ -26,5 +26,14 @@ Parcial Primer Momento Backend - Construccion de un Servlet con Java
 ![image](https://github.com/user-attachments/assets/c0316ba9-8886-4f2e-b973-c49a66dc8f67)
 
 
-
-   
+# Informe
+   * Se crea una entidad Reserva que modela los datos.
+   * Se cre auna clases PersistencaReserva que contiene los metodos de almacenar, traer y eliminar reservas.
+   * Se crean Tres servlets:
+        - ReservaServlet: Procesa el formulario Index.html, valida los campos y los guarda en la base de datos.
+        - ListaReservasServlet: trae y muestra todas las reservas.
+        - EliminarReservaServlet: Elimina una reserva usando el Id.
+    *Tenemos dos vistas:
+        - Index.html: muestra un formulario y un campo para redirigir hacia mostrarReservas.jsp
+        - mostrarReserva.jps: crea una tabla que muestra todas las reservas y un campo para redirigir al index.html
+    
