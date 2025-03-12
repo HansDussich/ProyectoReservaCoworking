@@ -11,12 +11,12 @@ Tomcat 8
     ```bash
     https://github.com/HansDussich/ProyectoReservaCoworking.git
 2. En MySQL crea una base de datos llamada
-   ´´´bash
+   ```bash
    coworkingDB
 3. Construye el proyecto y las dependencias
 4. Asegurate de tener el XAMPP abierto con Apache y MySQL habilitados.
 5. Run Project y abre tu navegador y busca
-   ´´´bash
+   ```bash
    http://localhost:8080/ProyectoReservasCoworking/
 
 ##Index.html
