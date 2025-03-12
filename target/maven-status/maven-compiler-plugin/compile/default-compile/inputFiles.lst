@@ -1,0 +1,10 @@
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\entity\controladora.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\entity\Reserva.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\persistencia\controladoraPersistencia.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\persistencia\ReservaJpaController.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\servlets\EliminarReservaServlet.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\servlets\ListaReservasServlet.java
+C:\Users\hans2\Documents\NetBeansProjects\ProyectoReservasCoworking\src\main\java\com\proyectoreservascoworking\servlets\ReservaServlet.java
