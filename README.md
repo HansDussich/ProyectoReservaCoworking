@@ -36,5 +36,5 @@ Parcial Primer Momento Backend - Construccion de un Servlet con Java
 
    * Tenemos dos vistas:
         - Index.html: muestra un formulario y un campo para redirigir hacia mostrarReservas.jsp
-        - mostrarReserva.jps: crea una tabla que muestra todas las reservas y un campo para redirigir al index.html
+        - mostrarReservas.jps: crea una tabla que muestra todas las reservas y un campo para redirigir al index.html
     
