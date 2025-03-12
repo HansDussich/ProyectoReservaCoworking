@@ -2,8 +2,8 @@
 Parcial Primer Momento Backend - Construccion de un Servlet con Java 
 
 # Requisitos 
-Java 21
-Tomcat 8
+* Java 21
+* Tomcat 8
 
 # Instrucciones
 
