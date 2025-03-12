@@ -9,7 +9,7 @@ Tomcat 8
 
 1. clona el repositorio
     ```bash
-    https://github.com/HansDussich/ProyectoReservaCoworking.git
+    git clone https://github.com/HansDussich/ProyectoReservaCoworking.git
 2. En MySQL crea una base de datos llamada
    ```bash
    coworkingDB
